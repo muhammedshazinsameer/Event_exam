@@ -2,4 +2,4 @@
 
 GitHub Link: https://github.com/muhammedshazinsameer/Event_exam.git
 
-Deployment Link: event-exam.vercel.app
+Deployment Link: https://event-exam.vercel.app/
